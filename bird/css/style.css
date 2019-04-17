@@ -1,0 +1,57 @@
+div{
+    border: 1px #444;
+    padding: 10px;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: darkblue;
+    border-bottom: 10px grey;
+    
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #F25EOB;
+}
+.content{
+    font-family: 'Dokdo', cursive;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #F25EOB;
+}
+.menu div{
+    background-color:#F25EOB ;
+    border: 2px red ;
+    font-size: 20px;
+    
+}
+.he-1{
+    width: 70%;
+    font-family:"Lucida Console", Monaco;
+}
+.he-2{
+    width: 20%;
+}
+.block-1{
+     width: 64%; 
+     background-color: #C2C008;
+} 
+.block-2{
+    width: 30%;
+    background-color: #C2C008;
+}
+.he-2 img{
+    width: 20%;
+}
+.block-2-2 img{
+    border: 2px red solid;
+    width: 42%;
+    margin: 10px;
+}
+.footer{
+    background-color:forestgreen; 
+}
